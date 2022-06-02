@@ -1,7 +1,7 @@
 # Personal Quizz 🐶 🐢 🐱 🐰
 
 This app created for work with protocols and use MVC.<br/>
-It is simple Quizz to know, what animal are you, by answering on questions with different types of answers!<br/>
+It is simple Quizz to know, what animal you are, by answering on questions with different types of answers!<br/>
 Install and chech it!
 
 <div align="center">
