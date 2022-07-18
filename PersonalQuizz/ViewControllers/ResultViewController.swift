@@ -68,11 +68,6 @@ class ResultViewController: UIViewController {
 /*
  class ResultViewController: UIViewController {
      
-     // 1. Передать сюда массив с ответами
-     // 2. Определить наиболее часто встречающийся тип животного
-     // 3. Отобразить результат в соответствии с этим животным
-     // 4. Избавиться от кнопки возврата на предыдущий экран
-     
      @IBOutlet var navItem: UINavigationItem!
      @IBOutlet var emogiLabel: UILabel!
      @IBOutlet var descriptionLabel: UILabel!
